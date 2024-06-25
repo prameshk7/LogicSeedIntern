@@ -38,7 +38,7 @@
 
 while True:
     a=(input("Enter your operation: "))
-    variable ={}
+    variable ={a}
     if a=='e':
         break
     elif "=" in a:
